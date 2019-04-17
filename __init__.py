@@ -12,4 +12,3 @@ class PleaseRepeat(MycroftSkill):
 
 def create_skill():
     return PleaseRepeat()
-
